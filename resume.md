@@ -2,7 +2,11 @@
 
 kod3@uw.edu
 
+<img src="images/henry.jpg" alt="profile picture" width="25%" height="20%">
+
 # Summary
+
+> Works really hard to complete tasks no one else wants to handle. Will pick up new technologies quickly.
 
 Currently a Senior at the University of Washington majoring in Geography with Data Science
 and minoring in Informatics. Looking to become a Software Engineer in Backend services.
