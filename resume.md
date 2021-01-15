@@ -2,7 +2,9 @@
 
 kod3@uw.edu
 
-<img src="images/henry.jpg" alt="profile picture" width="25%" height="20%">
+<img src="images/henry.jpg" alt="profile picture" width="25%" height="20%"/>
+
+[Personal Website](https://kod3-1765277.github.io/index.html)
 
 # Summary
 
